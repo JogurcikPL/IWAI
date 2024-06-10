@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Ucz sie do egzaminu",
+      "category": "daily"
+    },
+    {
+      "id": "2",
+      "text": "Umyj ręce",
+      "category": "daily"
+    },
+    {
+      "id": "7775",
+      "text": "Odbierz paczke",
+      "category": "one-time"
+    },
+    {
+      "id": "dff0",
+      "text": "Odbierz paczke",
+      "category": "one-time"
+    },
+    {
+      "id": "f9e2",
+      "text": "Kup wode",
+      "category": "one-time"
+    }
+  ]
+}
